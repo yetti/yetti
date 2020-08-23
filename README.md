@@ -4,6 +4,7 @@ My name is Yetrina Battad. I'm a Senior Software Developer in the Australian Fed
 
 ## What I'm working on 🔭
 * Creating an app to manage my board game collection
+* A decision support tool
 
 ## What I'm learning 🌱
 * Learning Vue.js 3 and TypeScript
