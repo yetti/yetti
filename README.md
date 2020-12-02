@@ -9,6 +9,7 @@ My name is Yetrina Battad. I'm a Senior Software Developer in the Australian Fed
 ## What I'm learning 🌱
 * Learning Vue.js 3 and TypeScript
 * Functional programming with Elixir and Phoenix
+* Micro frontends with single-spa
 
 ![Yetti's github stats](https://github-readme-stats.vercel.app/api?username=yetti&count_private=true&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yetti)
