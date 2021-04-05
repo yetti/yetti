@@ -7,7 +7,7 @@ My name is Yetrina Battad. I'm a Senior Software Developer in the Australian Fed
 * A decision support tool
 
 ## What I'm learning 🌱
-* Learning Vue.js 3 and TypeScript
+* Learning React, Vue.js 3 and TypeScript
 * Functional programming with Elixir and Phoenix
 * Micro frontends with single-spa
 
